@@ -1,0 +1,10 @@
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\G4_Ejercicio_01\bin\Debug\G4_Ejercicio_01.exe.config
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\G4_Ejercicio_01\bin\Debug\G4_Ejercicio_01.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\G4_Ejercicio_01\bin\Debug\G4_Ejercicio_01.pdb
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\G4_Ejercicio_01\obj\Debug\G4_Ejercicio_01.csproj.AssemblyReference.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\G4_Ejercicio_01\obj\Debug\G4_Ejercicio_01.Form1.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\G4_Ejercicio_01\obj\Debug\G4_Ejercicio_01.Properties.Resources.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\G4_Ejercicio_01\obj\Debug\G4_Ejercicio_01.csproj.GenerateResource.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\G4_Ejercicio_01\obj\Debug\G4_Ejercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\G4_Ejercicio_01\obj\Debug\G4_Ejercicio_01.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\G4_Ejercicio_01\obj\Debug\G4_Ejercicio_01.pdb

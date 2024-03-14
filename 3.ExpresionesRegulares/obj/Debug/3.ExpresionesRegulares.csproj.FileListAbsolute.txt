@@ -1,0 +1,10 @@
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\3.ExpresionesRegulares\bin\Debug\3.ExpresionesRegulares.exe.config
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\3.ExpresionesRegulares\bin\Debug\3.ExpresionesRegulares.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\3.ExpresionesRegulares\bin\Debug\3.ExpresionesRegulares.pdb
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\3.ExpresionesRegulares\obj\Debug\3.ExpresionesRegulares.csproj.AssemblyReference.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\3.ExpresionesRegulares\obj\Debug\_3.ExpresionesRegulares.Form1.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\3.ExpresionesRegulares\obj\Debug\_3.ExpresionesRegulares.Properties.Resources.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\3.ExpresionesRegulares\obj\Debug\3.ExpresionesRegulares.csproj.GenerateResource.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\3.ExpresionesRegulares\obj\Debug\3.ExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\3.ExpresionesRegulares\obj\Debug\3.ExpresionesRegulares.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\3.ExpresionesRegulares\obj\Debug\3.ExpresionesRegulares.pdb

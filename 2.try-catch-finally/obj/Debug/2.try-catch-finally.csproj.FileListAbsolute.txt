@@ -1,0 +1,10 @@
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\2.try-catch-finally\bin\Debug\2.try-catch-finally.exe.config
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\2.try-catch-finally\bin\Debug\2.try-catch-finally.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\2.try-catch-finally\bin\Debug\2.try-catch-finally.pdb
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\2.try-catch-finally\obj\Debug\2.try-catch-finally.csproj.AssemblyReference.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\2.try-catch-finally\obj\Debug\_2.try_catch_finally.Form1.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\2.try-catch-finally\obj\Debug\_2.try_catch_finally.Properties.Resources.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\2.try-catch-finally\obj\Debug\2.try-catch-finally.csproj.GenerateResource.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\2.try-catch-finally\obj\Debug\2.try-catch-finally.csproj.CoreCompileInputs.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\2.try-catch-finally\obj\Debug\2.try-catch-finally.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\2.try-catch-finally\obj\Debug\2.try-catch-finally.pdb

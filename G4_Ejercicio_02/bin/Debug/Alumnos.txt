@@ -1,0 +1,32 @@
+Nombres: Glendy Lisbeth
+Apellidos: Argueta Rivera
+Carnet: AR100621
+Fecha de Nacimiento: 18/12/2003
+Correo Electrónico: ia.lisbethargueta@ufg.edu.sv
+Responsable: Lidia del Rosario Guandique
+Materia Inscrita: Implementación de Lenguajes de Programación para Negocios
+
+Nombres: Glendy Lisbeth
+Apellidos: Argueta Rivera
+Carnet: AR100621
+Fecha de Nacimiento: 18/12/2003
+Correo Electrónico: ia.lisbethargueta@ufg.edu.sv
+Responsable: Lidia del Rosario Guandique
+Materia Inscrita: Analizando Necesidades de Infraestructura de Servidores
+
+Nombres: Glendy Lisbeth
+Apellidos: Argueta Rivera
+Carnet: AR100621
+Fecha de Nacimiento: 18/12/2003
+Correo Electrónico: ia.lisbethargueta@ufg.edu.sv
+Responsable: Lidia del Rosario Guandique
+Materia Inscrita: Gestión Efectiva del Talento Humano
+
+Nombres: Glendy Lisbeth
+Apellidos: Argueta Rivera
+Carnet: AR100621
+Fecha de Nacimiento: 18/12/2003
+Correo Electrónico: ia.lisbethargueta@ufg.edu.sv
+Responsable: Lidia del Rosario Guandique
+Materia Inscrita: Gestión de Indicadores de Rendimiento, Calidad y Seguridad de Redes
+

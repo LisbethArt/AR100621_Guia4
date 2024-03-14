@@ -1,0 +1,31 @@
+Materia a Ingresar Notas: Implementación de Lenguajes de Programación para Negocios
+Carnet del Alumno: AR100621
+Nota Periodo 1: 10
+Nota Periodo 2: 10
+Nota Periodo 3: 10
+Nota Periodo 4: 10
+Promedio: 10
+
+Materia a Ingresar Notas: Analizando Necesidades de Infraestructura de Servidores
+Carnet del Alumno: AR100621
+Nota Periodo 1: 10
+Nota Periodo 2: 9
+Nota Periodo 3: 9
+Nota Periodo 4: 9
+Promedio: 9.25
+
+Materia a Ingresar Notas: Gestión Efectiva del Talento Humano
+Carnet del Alumno: AR100621
+Nota Periodo 1: 10
+Nota Periodo 2: 10
+Nota Periodo 3: 9
+Nota Periodo 4: 10
+Promedio: 9.75
+
+Materia a Ingresar Notas: Gestión de Indicadores de Rendimiento, Calidad y Seguridad de Redes
+Carnet del Alumno: AR100621
+Nota Periodo 1: 10
+Nota Periodo 2: 8
+Nota Periodo 3: 10
+Nota Periodo 4: 10
+Promedio: 9.5

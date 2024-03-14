@@ -1,0 +1,10 @@
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\1.MaskedTextBox\bin\Debug\1.MaskedTextBox.exe.config
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\1.MaskedTextBox\bin\Debug\1.MaskedTextBox.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\1.MaskedTextBox\bin\Debug\1.MaskedTextBox.pdb
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\1.MaskedTextBox\obj\Debug\1.MaskedTextBox.csproj.AssemblyReference.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\1.MaskedTextBox\obj\Debug\_1.MaskedTextBox.Form1.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\1.MaskedTextBox\obj\Debug\_1.MaskedTextBox.Properties.Resources.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\1.MaskedTextBox\obj\Debug\1.MaskedTextBox.csproj.GenerateResource.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\1.MaskedTextBox\obj\Debug\1.MaskedTextBox.csproj.CoreCompileInputs.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\1.MaskedTextBox\obj\Debug\1.MaskedTextBox.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia4\1.MaskedTextBox\obj\Debug\1.MaskedTextBox.pdb

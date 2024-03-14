@@ -1,0 +1,10 @@
+C:\Users\UFG\Desktop\AR100621_Guia4\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+C:\Users\UFG\Desktop\AR100621_Guia4\Ejemplo2\bin\Debug\Ejemplo2.exe
+C:\Users\UFG\Desktop\AR100621_Guia4\Ejemplo2\bin\Debug\Ejemplo2.pdb
+C:\Users\UFG\Desktop\AR100621_Guia4\Ejemplo2\obj\Debug\Ejemplo2.csproj.AssemblyReference.cache
+C:\Users\UFG\Desktop\AR100621_Guia4\Ejemplo2\obj\Debug\Ejemplo2.Form1.resources
+C:\Users\UFG\Desktop\AR100621_Guia4\Ejemplo2\obj\Debug\Ejemplo2.Properties.Resources.resources
+C:\Users\UFG\Desktop\AR100621_Guia4\Ejemplo2\obj\Debug\Ejemplo2.csproj.GenerateResource.cache
+C:\Users\UFG\Desktop\AR100621_Guia4\Ejemplo2\obj\Debug\Ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\UFG\Desktop\AR100621_Guia4\Ejemplo2\obj\Debug\Ejemplo2.exe
+C:\Users\UFG\Desktop\AR100621_Guia4\Ejemplo2\obj\Debug\Ejemplo2.pdb
